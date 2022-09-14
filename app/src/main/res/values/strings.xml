@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">chapter4topic1</string>
+    <string name="judul_aplikasi"><i>Git.News</i></string>
+    <string name="motto_aplikasi">Lini Berita Masa Kini</string>
+    <string name="desc_gambar">Gambar Berita</string>
+
+    <!--Berita Satu-->
+    <string name="headline_news1">Film One Piece : Red Raup Untung Rp 1,2 Triliun</string>
+    <string name="author_news1">Tia Agnes Astuti</string>
+    <string name="date_news1">Jumat, 2 Sep 2022 10:51 WIB</string>
+    <string name="body_news1">
+        <b>Jakarta - </b>Sejak akhir bulan lalu, film One Piece: Red menjadi pembicaraan di kalangan para penggemarnya.Ditayangkan pada 6 September, film yang diadaptasi dari manga Eiichiro Oda itu disebut raup keuntungan lebih dari Rp 1 triliun selama sebulan.\n
+        Selama 4 minggu berturut-turut, One Piece: Red menjual 8,6 juta tiket. Di awal penayangan, sudah ada 1,5 juta tiket yang terjual.\n
+        Dalam waktu 9 hari, masyarakat Jepang sudah membeli tiketnya sebanyak 4,7 juta tiket dan angka itu terus naik sampai di hari ke-23 dengan 8,2 juta tiket. Hasil penghitungan terakhir adalah 8,6 juta selama 26 hari penayangan di bioskop.</string>
+</resources>
